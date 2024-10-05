@@ -11,9 +11,11 @@ Providing a reference point for future projects that involve regression tasks.
 ## Key Features
 Linear Regression Models: The repository includes various implementations of linear regression, from simple models to more complex ones that incorporate feature selection, regularization techniques, and model diagnostics.
 
-### Model Evaluation: Focus on key metrics such as Mean Squared Error (MSE), R-squared, and Adjusted R-squared to assess model performance and generalization to unseen data.
+### Model Evaluation:
+Focus on key metrics such as Mean Squared Error (MSE), R-squared, and Adjusted R-squared to assess model performance and generalization to unseen data.
 
-### Learning Progression: The files document the learning process, highlighting challenges, improvements, and key insights gained during experimentation with different datasets.
+### Learning Progression:
+The files document the learning process, highlighting challenges, improvements, and key insights gained during experimentation with different datasets.
 
 ## Technologies Used
 Python: Used to implement linear regression models.
